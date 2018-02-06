@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\controllers",
+    "\\models",
+    "\\models\\EZ_Gyro_2",
+    "\\models\\operations"
+  ],
+  "SelectedNode": "\\controllers\\userController.js",
+  "PreviewInSolutionExplorer": false
+}
